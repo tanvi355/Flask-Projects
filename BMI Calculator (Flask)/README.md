@@ -9,7 +9,11 @@ A simple calculator used to calculate the Body Mass Index (BMI).
 - Python
 - Flask
 
-## How to use:
+## Project Link:
+
+Try out this project here: https://bmi-calculator-flask.herokuapp.com/
+
+## Steps to use it on your local machine:
 
 1. Fork and clone [this](https://github.com/tanvi355/Flask-Projects/tree/main/BMI%20Calculator%20(Flask)) project.
 2. In your command prompt, navigate to **BMI Calculator (Flask)**.
@@ -18,4 +22,4 @@ A simple calculator used to calculate the Body Mass Index (BMI).
 
 ## Screenshot
 
-<img src="https://imgur.com/PoJcIsR.png"/>
+<img src="https://imgur.com/JWrTXsm.png"/>
