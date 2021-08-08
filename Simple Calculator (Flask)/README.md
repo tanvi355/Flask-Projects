@@ -9,7 +9,11 @@ A simple calculator with 2 input fields and some options to perform different op
 - Python
 - Flask
 
-## How to use:
+## Project Link
+
+Try out this project here: https://simple-calculator-flask.herokuapp.com/
+
+## Steps to use it on your local machine:
 
 1. Fork and clone [this](https://github.com/tanvi355/Flask-Projects/tree/main/Simple%20Calculator%20(Flask)) project.
 2. In your command prompt, navigate to **Simple Calculator (Flask)**.
@@ -18,4 +22,4 @@ A simple calculator with 2 input fields and some options to perform different op
 
 ## Screenshot
 
-<img src="https://imgur.com/sTJUKFy.png"/>
+<img src="https://imgur.com/YrVyG1M.png"/>
