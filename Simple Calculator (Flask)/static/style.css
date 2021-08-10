@@ -21,7 +21,11 @@ select:invalid {
     text-align: left;
 }
 
-#calc_btn{
+#btn{
     color: black;
     border-color: black;
+}
+
+#btn:focus{
+    background: blue;
 }

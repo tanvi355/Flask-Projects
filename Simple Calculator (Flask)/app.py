@@ -15,17 +15,16 @@ def main():
 def send():
     try:
         if request.method == 'POST':
-            #start pulling the data from form input
+            #start pulling the data (name) from form input
             var1 = request.form['var1']
             var2 = request.form['var2']
-            operation = request.form['operation']
 
             #calculating answer
-            if operation == 'add':
+            if request.form.get('add'):
                 ans = float(var1) + float(var2)
-            elif operation == 'subtraction':
+            elif request.form.get('subtract'):
                 ans = float(var1) - float(var2)
-            elif operation == 'multiply':
+            elif request.form.get('multiply'):
                 ans = float(var1) * float(var2)
             else:
                 ans = float(var1) / float(var2)
