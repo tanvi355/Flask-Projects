@@ -8,10 +8,10 @@ A simple calculator with 2 input fields and some options to perform different op
 - CSS
 - Python
 - Flask
-<!--
+
 ## Project Link
 
-Try out this project here: https://simple-calculator-flask.herokuapp.com/-->
+Try out this project here: https://simple-calculator-flask.herokuapp.com/
 
 ## Steps to use it on your local machine:
 
@@ -22,4 +22,4 @@ Try out this project here: https://simple-calculator-flask.herokuapp.com/-->
 
 ## Screenshot
 
-<img src="https://imgur.com/YrVyG1M.png"/>
+<img src="https://imgur.com/cIZHzuT.png"/>
